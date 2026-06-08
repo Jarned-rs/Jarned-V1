@@ -17,6 +17,15 @@ How to use yourself!
 Just download the files above, get your PCB and other parts, download the KMK firmware and enjoy!
 All the keys are set to F13, F14 ect. so you can make your own shortcuts through Windows!
 
+BOM:
+- 1 Seeed XIAO RP2040#
+- 5x MX-Style switches
+- 1 EC11 Rotary Encoder
+- 1 0.91" OLED
+- 5x white blank DSA keycaps
+- 4x M3x16mm screws
+- 4x M3x5mx4mm heatset inserts
+
 Features:
 - 5 Keys that are set to F13,14,15 ect.
 - A rotary encoder (volume knob) that can be used to increase, decrease and mute audio
