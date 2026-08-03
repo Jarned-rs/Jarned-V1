@@ -5,7 +5,8 @@
 A practical mini keyboard for people who need to do things faster.
 
 CASE:
-<img width="1254" height="841" alt="image" src="https://github.com/user-attachments/assets/62c47229-ff9d-4d0f-b8e8-8add9512161a" />
+<img width="1198" height="764" alt="Screenshot 2026-08-03 105643" src="https://github.com/user-attachments/assets/51a370b1-788c-40f7-81b8-3cc58eec5c38" />
+ />
 
 PCB:
 <img width="733" height="665" alt="image" src="https://github.com/user-attachments/assets/1ddc04f9-6eb8-41f4-bc41-4f225b85bc57" />
